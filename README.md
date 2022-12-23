@@ -10,4 +10,4 @@
 
 Скачать - https://github.com/defoxxx/SeaOfThieves/releases/download/seaofthieves/SotExternalESP.exe
 
-Зарегаю вам аккаунт и куплю на него Sea Of Thieves - https://github.com/defoxxx/sot200rub
+Зарегаю вам аккаунт и куплю на него Sea Of Thieves за 200руб - https://github.com/defoxxx/sot200rub
