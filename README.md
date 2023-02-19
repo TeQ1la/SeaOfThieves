@@ -19,3 +19,5 @@
 Скачать - https://github.com/defoxxx/SeaOfThieves/releases/download/seaofthieves/SeaOfChoros.zip
 
 Инжектить любым manualmap инжектором (Extreme)
+
+Можете этим - ttps://github.com/defoxxx/cheats/releases/download/ex/Extreme.Injector.v3.exe
