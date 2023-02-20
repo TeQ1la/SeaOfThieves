@@ -8,7 +8,7 @@
 
 
 
-Скачать - необновлен, жд те
+Скачать - https://github.com/defoxxx/SeaOfThieves/releases/download/seaofthieves/SotExternalESPv3.5.2_.unknowncheats.me._.exe
 
 # SeaOfChoros
 
