@@ -8,7 +8,7 @@
 
 
 
-Скачать - На обновлении...
+Скачать - На обновлении
 
 
-xx/SeaOfThieves/releases/download/seaofthieves/SotExternalESPv3.5.3_.unknowncheats.me._.exe
+Другой чит на замену - https://github.com/defoxxx/SeaOfThieves/releases/download/seaofthieves/ggme.exe
