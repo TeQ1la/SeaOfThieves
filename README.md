@@ -8,4 +8,7 @@
 
 
 
-Скачать - https://github.com/defoxxx/SeaOfThieves/releases/download/seaofthieves/SotExternalESPv3.5.3_.unknowncheats.me._.exe
+Скачать - На обновлении...
+
+
+xx/SeaOfThieves/releases/download/seaofthieves/SotExternalESPv3.5.3_.unknowncheats.me._.exe
