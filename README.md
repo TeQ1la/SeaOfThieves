@@ -8,4 +8,4 @@
 
 
 
-Скачать - https://github.com/spacecollapse/SeaOfThieves/releases/download/seaofthieves/SotExternalESPv3.5.4_.unknowncheats.me._.exe
+Скачать - на обновлении
