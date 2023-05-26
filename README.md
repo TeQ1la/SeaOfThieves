@@ -6,6 +6,8 @@
 
 
 
+#Временно
 
+Скачать - https://github.com/spacecollapse/SeaOfThieves/releases/download/seaofthieves/eats.me._.dll
 
-Скачать - на обновлении
+Этот чит инжектитсинжектится в процесс игры, если вы не знаете как это сделать - https://github.com/spacecollapse/Inject
