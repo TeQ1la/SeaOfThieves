@@ -6,7 +6,7 @@
 
 
 
-#Временно
+# Единственный работающий чит сейчас
 
 Скачать - https://github.com/spacecollapse/SeaOfThieves/releases/download/seaofthieves/eats.me._.dll
 
