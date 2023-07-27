@@ -9,4 +9,6 @@
 
 Мануал - https://github.com/spacecollapse/Inject
 
+Меню открывается на Home либо Insert
+
 Скачать - https://github.com/spacecollapse/SeaOfThieves/releases/download/seaofthieves/MrMeow_.unknowncheats.me._.dll
