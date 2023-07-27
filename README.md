@@ -6,6 +6,7 @@
 
 Внимание!
 Данный чит инжектится инжектором 
+
 Мануал - https://github.com/spacecollapse/Inject
 
 Скачать - https://github.com/spacecollapse/SeaOfThieves/releases/download/seaofthieves/MrMeow_.unknowncheats.me._.dll
