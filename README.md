@@ -2,7 +2,10 @@
 
 Чит на SeaOfThieves
 
-![image](https://user-images.githubusercontent.com/53594431/209291123-2137afc2-8f9c-482c-8946-89550c53c1ae.png)
+![image](https://github.com/spacecollapse/SeaOfThieves/assets/53594431/60eb67c6-8590-4084-8659-df05f6732591)
 
+Внимание!
+Данный чит инжектится инжектором 
+Мануал - https://github.com/spacecollapse/Inject
 
-Скачать - https://github.com/spacecollapse/SeaOfThieves/releases/download/seaofthieves/SotExternalESPv3.5.6_.unknowncheats.me._.exe
+Скачать - https://github.com/spacecollapse/SeaOfThieves/releases/download/seaofthieves/MrMeow_.unknowncheats.me._.dll
