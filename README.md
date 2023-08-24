@@ -4,7 +4,7 @@
 
 
 
-Скачать - https://github.com/spacecollapse/SeaOfThieves/releases/download/seaofthieves/SotExternalESPv3.5.7_.unknowncheats.me._.exe
+Скачать - https://github.com/spacecollapse/SeaOfThieves/releases/download/seaofthieves/sot.exe
 
 # SoT mrmeow
 
