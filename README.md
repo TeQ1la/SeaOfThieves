@@ -4,7 +4,7 @@
 
 
 
-Скачать - https://github.com/spacecollapse/SeaOfThieves/releases/download/seaofthieves/sot.exe
+Скачать - https://github.com/spacecollapse/SeaOfThieves/releases/download/seaofthieves/SotExternalESPv3.5.9_.unknowncheats.me._.exe
 
 # SoT mrmeow
 
@@ -19,4 +19,4 @@
 
 Меню открывается на Home либо Insert
 
-Скачать - https://github.com/spacecollapse/SeaOfThieves/releases/download/seaofthieves/MrMeow_.unknowncheats.me._.dll
+Скачать - на обновлении
